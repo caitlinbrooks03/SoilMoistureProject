@@ -4,6 +4,11 @@
 
 body {
     color: #586342;
+    
+}
+
+#title {
+    text-align: center;
 }
 
 .dashboard {
