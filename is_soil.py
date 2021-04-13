@@ -7,8 +7,8 @@ from adafruit_seesaw.seesaw import Seesaw
 # --------- User Settings ----------- 
 SENSOR_LOCATION_NAME = "Pilea Baby Tears"
 BUCKET_NAME = "House Plant"
-BUCKET_KEY = "XYXCGB8TULPH"
-ACCESS_KEY = "ist_XBhcB9cq5TODOKl0AIJ0zUVbMvNmo9Ni"
+BUCKET_KEY = "6VDT99BXPS77"
+ACCESS_KEY = "ist_DB52Yw4zk_grxkquzx1l5bG7ynIkV7oa"
 MIN_BETWEEN_READS = 0.1
 # ------------------------------------
 
